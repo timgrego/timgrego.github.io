@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About
-
 I am a final-year BSc Computer Science student at the University of London, specialising in Machine Learning and AI, and a research assistant at Kyiv National University.
 
 My research focuses on nonlinear discrete-time dynamical systems, particularly the computational and mathematical characterization of qualitative behaviour. I have developed machine-learning methods for identifying regions of valid dynamics, distinguishing stable and oscillatory regimes, and investigating transitions in system behaviour as parameters vary.
