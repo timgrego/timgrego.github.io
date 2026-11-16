@@ -1,11 +1,12 @@
-# Markdown Generator
+# Markdown generator
 
-This directory contains various ways of creating Markdown for your site. In general, filenames that end with `.ipynb` or `.py` are similar, but may contain different documentation or are intended to be run from with GitHub when deploying your site.
+Optional scripts for turning a spreadsheet into publication or talk pages. Nothing here is published; the folder is excluded in `_config.yml`.
 
-## Python Scripts
+From the repository root:
 
-The .py files are Python scripts that that can be run from the command line (ex., `python3 publications.py publications.csv`) with the objective of also ensuring that they have reduced requirements for packages, which may allow them to run when deploying your site from within GitHub.
+```bash
+python3 markdown_generator/publications.py markdown_generator/publications.csv
+python3 markdown_generator/talks.py markdown_generator/talks.tsv
+```
 
-## Jupyter Notebooks
-
-These .ipynb files are Jupyter notebook files that convert a TSV containing structured data about talks (`talks.tsv`) or presentations (`presentations.tsv`) into individual markdown files that will be properly formatted for the academicpages template. The notebooks contain a lot of documentation about the process.
+The `.ipynb` files are the same conversions with notes inline. `publications.tsv`, `publications.csv`, and `talks.tsv` are examples, not site content. Replace them before generating pages.
