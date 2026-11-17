@@ -13,7 +13,7 @@ My research focuses on nonlinear discrete-time dynamical systems, particularly t
 
 My current work is extending this modelling framework towards information diffusion on social-media platforms, with a focus on parameter identification and predictive validation. I am also interested in investigating how control methods can direct nonlinear systems towards specified objectives.
 
-More broadly, I am interested in the mathematical foundations of autonomous and adaptive systems. My research has motivated a shift from asking which behaviours emerge from given system parameters to understanding the conditions under which desired behaviours can be realized, either through autonomous dynamics or through control.
+More broadly, I am interested in the mathematical foundations of autonomous and adaptive systems. My research has motivated a shift from asking which behaviours emerge from given system parameters to understanding the conditions under which desired behaviours can be realised, either through autonomous dynamics or through control.
 
 My long-term goal is to investigate how adaptive and goal-directed behaviour can arise from interactions within complex dynamical systems.
 
@@ -21,5 +21,5 @@ My long-term goal is to investigate how adaptive and goal-directed behaviour can
 
 - Nonlinear dynamical systems and bifurcation theory
 - Qualitative behaviour, stability and robustness
-- Control theory and behavioural realizability
+- Control theory and behavioural realisability
 - Mathematical foundations of autonomous and adaptive systems
